@@ -1,0 +1,18 @@
+.grid-container{
+  display: inline-block;
+  position: relative;
+}
+
+.grid-locksCol{
+  border: 1px solid black;
+  width:100px;
+  height:100px;
+  position: absolute;
+}
+
+.grid-locksRows{
+  border: 1px solid black;
+  width:100px;
+  height:100px;
+  position: absolute;
+}
